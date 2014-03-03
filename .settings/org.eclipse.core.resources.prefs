@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//examples/ConsoleWidget.py=utf-8
+encoding//examples/GLSurfacePlot.py=utf-8
+encoding//examples/customPlot.py=utf-8
+encoding//examples/logAxis.py=utf-8
+encoding//pyqtgraph/Point.py=utf-8
+encoding//pyqtgraph/SRTTransform.py=utf-8
+encoding//pyqtgraph/WidgetGroup.py=utf-8
+encoding//pyqtgraph/__init__.py=utf-8
+encoding//pyqtgraph/debug.py=utf-8
+encoding//pyqtgraph/graphicsItems/PlotItem/PlotItem.py=utf-8
+encoding//pyqtgraph/widgets/GraphicsView.py=utf-8
+encoding//pyqtgraph/widgets/TableWidget.py=utf-8
