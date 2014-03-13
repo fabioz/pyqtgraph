@@ -23,6 +23,7 @@ pyqtgraph-0.9.9  [unreleased]
     - Added ViewBox.setLimits() method
     - Adde ImageItem downsampling
     - New HDF5 example for working with very large datasets
+    - Removed all dependency on scipy
     - Added Qt.loadUiType function for PySide
     - Simplified Profilers; can be activated with environmental variables
     - Added Dock.raiseDock() method
@@ -64,7 +65,10 @@ pyqtgraph-0.9.9  [unreleased]
     - Fixed MeshData exception caused when vertexes have no matching faces
     - Fixed GLViewWidget exception handler
     - Fixed unicode support in Dock
-
+    - Fixed PySide crash caused by emitting signal from GraphicsObject.itemChange
+    - Fixed possible infinite loop from FiniteCache
+    - Allow images with NaN in ImageView
+    - MeshData can generate edges from face-indexed vertexes
 
 pyqtgraph-0.9.8  2013-11-24
 

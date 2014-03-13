@@ -26,7 +26,9 @@ Contributors
   * Antony Lee
   * Mattias Põldaru
   * Thomas S.
+  * Fabio Zadrozny
   * Mikhail Terekhov
+  * Pietro Zambelli
 
 Requirements
 ------------
