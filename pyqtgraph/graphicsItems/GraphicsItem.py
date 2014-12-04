@@ -8,7 +8,10 @@ from ..util.lru_cache import LRUCache
 from pyqtgraph.Qt import USE_PYSIDE
 
 if USE_PYSIDE:
-    from PySide import shiboken
+    try:
+        from PySide import shiboken
+    except:
+        import shiboken
 
 
 class GraphicsItem(object):

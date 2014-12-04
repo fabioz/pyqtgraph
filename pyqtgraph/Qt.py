@@ -32,7 +32,10 @@ else:
 if USE_PYSIDE:
     from PySide import QtGui, QtCore, QtOpenGL, QtSvg
     import PySide
-    from PySide import shiboken
+    try:
+        from PySide import shiboken
+    except:
+        import shiboken
     isQObjectAlive = shiboken.isValid
     
     VERSION_INFO = 'PySide ' + PySide.__version__
