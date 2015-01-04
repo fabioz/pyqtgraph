@@ -12,5 +12,6 @@ encoding//pyqtgraph/__init__.py=utf-8
 encoding//pyqtgraph/debug.py=utf-8
 encoding//pyqtgraph/functions.py=utf-8
 encoding//pyqtgraph/graphicsItems/PlotItem/PlotItem.py=utf-8
+encoding//pyqtgraph/widgets/CheckTable.py=utf-8
 encoding//pyqtgraph/widgets/GraphicsView.py=utf-8
 encoding//pyqtgraph/widgets/TableWidget.py=utf-8
