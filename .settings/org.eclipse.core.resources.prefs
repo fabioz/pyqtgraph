@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//examples/ConsoleWidget.py=utf-8
 encoding//examples/GLSurfacePlot.py=utf-8
+encoding//examples/MultiplePlotAxes.py=utf-8
 encoding//examples/VideoTemplate_pyqt.py=utf-8
 encoding//examples/customPlot.py=utf-8
 encoding//examples/exampleLoaderTemplate_pyqt.py=utf-8
